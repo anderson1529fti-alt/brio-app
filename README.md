@@ -14,9 +14,4 @@ App nativa de Android en **Kotlin + Jetpack Compose** (sin HTML).
 - **Historial** desplegable con borrado.
 - **Tres personalidades**: Amable, Normal y Sin piedad (+18, con confirmación de edad).
 - **Modo lesión**: Brío se vuelve amable automáticamente.
-- Datos guardados solo en el móvil (`brio.json`).
-
-**Regla de oro de las frases**: Brío se mete con el esfuerzo y las excusas, nunca con el cuerpo, el peso, la cara o la comida.
-
-
-- Recordatorios.
+- Datos guardados solo en el móvil (`brio.json`).**
